@@ -9,8 +9,7 @@
 매일매일 고래에게 ‘공부’ 먹이를 주고, 항해 99일간 키우면 성장 완료!
 
 ## 💻 preview
-배포주소 :[woo3145.pythonanywhere.com](https://woo3145.pythonanywhere.com/)  
-
+노션주소 : https://naraspc.notion.site/189d8ed0848d44c9b3a0718127f13b02
 [고래키우기 시연 영상](https://youtu.be/D-ZuqNl9Zzk) 
 
 ## 👨‍👨‍👧‍👦 팀원
