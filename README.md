@@ -10,6 +10,7 @@
 
 ## 💻 preview
 노션주소 : https://naraspc.notion.site/189d8ed0848d44c9b3a0718127f13b02
+
 [고래키우기 시연 영상](https://youtu.be/D-ZuqNl9Zzk) 
 
 ## 👨‍👨‍👧‍👦 팀원
