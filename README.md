@@ -47,12 +47,12 @@
 ⇒ SSR방식 렌더링으로 인해 응답 전 토큰을 헤더에 실지 못하는 경우 발생
 
 </aside>
-
+<details>
 - decode_token 메서드로 직접 쿠키를 파싱하여, 유효하면 jwt에 담긴 내용을 반환해주는 메서드를 정의하여 사용
     
  ![image](https://github.com/naraspc/growup-whale/assets/140101271/ed2958bd-7488-472d-8595-ee9d322b2e43)
 
-
+</details>
 
 
 
