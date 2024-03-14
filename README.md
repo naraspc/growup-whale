@@ -9,7 +9,6 @@
 
 ## 💻 preview
 고래 키우기를 소개할게요! 
-
 [Growup-whale](https://naraspc.notion.site/1b29f2fbcbe74a299b0876e35064b7b1)
 
 [고래키우기 시연 영상](https://youtu.be/D-ZuqNl9Zzk) 
