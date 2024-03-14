@@ -8,7 +8,8 @@
 매일매일 고래에게 ‘공부’ 먹이를 주고, 항해 99일간 키우면 성장 완료!
 
 ## 💻 preview
-노션주소 : https://naraspc.notion.site/189d8ed0848d44c9b3a0718127f13b02
+고래 키우기
+[Growup-whale](https://naraspc.notion.site/1b29f2fbcbe74a299b0876e35064b7b1)
 
 [고래키우기 시연 영상](https://youtu.be/D-ZuqNl9Zzk) 
 
